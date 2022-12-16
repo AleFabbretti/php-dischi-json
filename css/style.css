@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: #112030;
+  height: 100px;
+  margin-bottom: 30px;
+}
+
+.logo img {
+  height: 50px;
+}
+
+body {
+  background-color: #1d2d3c;
+}
+
+.select-card {
+  background-color: #112030;
+  color: white;
+}
+
+main img {
+  width: 250px;
+  height: 250px;
+}
